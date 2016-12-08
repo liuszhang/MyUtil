@@ -12,7 +12,7 @@ namespace MyUtil
     public class MyUtil
     {
 
-        #region 加密算法，采用MD5算法
+        #region 加密算法，采用MD5算法,这种加密方式是不可逆的
         /// <summary>
         /// 采用MD5的加密算法
         /// </summary>
